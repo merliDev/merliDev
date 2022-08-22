@@ -1,0 +1,5 @@
+- 👋 Finn
+- 👀 Discord Bot Developer
+- 🌱 JavaScript
+- 💞️ Working on Merlí
+- 📫 Lethamyr#0001
