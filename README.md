@@ -1,4 +1,4 @@
-- 👋 Finn
+- 👋 Merlí
 - 👀 Discord Bot Developer
 - 🌱 JavaScript
 - 💞️ dev @ Merlí
