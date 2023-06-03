@@ -1,5 +1,5 @@
 - 👋 Merlí
-- 👀 Discord Bot Developer
+- 👀 Backend Developer
 - 🌱 JavaScript
 - 💞️ dev @ Merlí
 - 📫 Merlí#4303
